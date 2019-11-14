@@ -1,0 +1,27 @@
+---
+homebrew_installed_packages:
+  # - ansible # Installed via Pip.
+  - autoconf
+  - awscli
+  - bash-completion
+  - curl
+  - docker-compose
+  - git
+  - gpg
+  - httpie
+  - mas
+  - nvm
+  - openssl
+  - python
+  - python3
+  - tree
+  - tmux
+  - wget
+  - zsh
+  - zsh-autosuggestions
+  - zsh-completions
+  - zsh-syntax-highlighting
+
+homebrew_taps:
+  - homebrew/core
+  - homebrew/cask  

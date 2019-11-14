@@ -1,0 +1,56 @@
+---
+homebrew_cask_appdir: /Applications
+
+homebrew_cask_apps:
+  - 1password
+  - adobe-creative-cloud
+  - alfred
+  - authy
+  - avibrazil-rdm
+  - betterzip
+  - calibre
+  - charles
+  - cheatsheet
+  - debookee
+  - docker
+  - dropbox
+  - evernote
+  - firefox
+  - flycut
+  - github
+  - gitify
+  - google-chrome
+  - google-drive-file-stream
+  - iterm2
+  - jetbrains-toolbox
+  - mailplane
+  - microsoft-office
+  - navicat-premium
+  - noun-project
+  - onyx
+#  - paw
+  - postman
+#  - powershell
+  - scratch
+  - sequel-pro
+  - sketchup
+  - skitch
+  - skype
+  - skype-for-business
+  - shimo
+  - signal
+  - slack
+  - smartgit
+  - soapui
+  - sourcetree
+  - spotify
+  - steam
+  - sublime-text
+  - telegram-desktop
+  - tinymediamanager
+  - virtualbox
+  - viscosity
+  - visual-studio-code
+  - vlc
+  - whatsapp
+  - wireshark
